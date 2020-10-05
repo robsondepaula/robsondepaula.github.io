@@ -1,6 +1,6 @@
 ## Short bio
 
-I am Antonio Robson de Paula, a software engineer in an ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.
+I am Antonio Robson de Paula, a solutions architect and principal software engineer in an ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.
 
 ### Professional experience
 
