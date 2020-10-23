@@ -14,4 +14,4 @@ You can find my academic publications in [Google Scholar](https://scholar.google
 
 ### Continuous learning
 
-I may occasionally publish on [Medium](https://medium.com/@robson.depaula) and share code on Github.
+I occasionally publish on [Medium](https://medium.com/@robson.depaula) and share code on GitHub.
