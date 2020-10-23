@@ -4,7 +4,7 @@ I am Antonio Robson de Paula, a solutions architect and principal software engin
 
 ### Professional experience
 
-Please reach my [Linkedin profile](https://www.linkedin.com/in/antoniorobsondepaula/) in order to check my career track.
+Please reach my [LinkedIn profile](https://www.linkedin.com/in/antoniorobsondepaula/) in order to check my career track.
 
 ### Education
 
@@ -14,4 +14,4 @@ You can find my academic publications in [Google Scholar](https://scholar.google
 
 ### Continuous learning
 
-I may occasionally publish on [Medium](https://medium.com/@robson.depaula) and share code on [Github](https://github.com/robsondepaula).
+I may occasionally publish on [Medium](https://medium.com/@robson.depaula) and share code on Github.
