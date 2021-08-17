@@ -1,6 +1,6 @@
 ## Short bio
 
-I am a curious person who likes to solve problems by writing code and sometimes integrating existing software in innovative ways. For more than twenty years, I have been architecting and designing solutions. I am on an ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.
+I am a curious person who likes to solve problems by writing code and sometimes integrating existing software in innovative ways. For more than twenty years, I have been developing and architecting solutions. I am on an ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.
 
 ### Professional experience
 
