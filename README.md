@@ -1,17 +1,13 @@
-## Short bio
+👋🏼 Welcome! よおうこそ！Boas vindas! 
 
-I am a curious person who likes to solve problems by writing code and sometimes integrating existing software in innovative ways. For more than twenty years, I have been developing and architecting solutions. I am on an ongoing, voluntary, and self-motivated pursuit of knowledge for either personal or professional reasons.
+## 
+<div align="center">
 
-### Professional experience
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoniorobsondepaula/)
+[![Github Badge](https://img.shields.io/badge/-Github-1a1b27?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/robsondepaula)
+[![Gitlab Badge](https://img.shields.io/badge/-GitLab-1a1b27?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/robsondepaula)
+[![Scholar Badge](https://img.shields.io/badge/Scholar-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scholar.google.com/citations?user=QucS_38AAAAJ&hl=en)
+[![Academia Badge](https://img.shields.io/badge/Lattes-1a1b27?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/3031414717499292)
+[![Medium](https://img.shields.io/badge/Medium-2b3752?style=for-the-badge&labelColor=3572a5&logo=medium)](https://medium.com/@robson.depaula)
 
-Please reach my [LinkedIn profile](https://www.linkedin.com/in/antoniorobsondepaula/) in order to check my career track.
-
-### Education
-
-My latest formal education achievement was to earn a Master's degree in Software Engineering while working full time.
-
-You can find my academic publications in [Google Scholar](https://scholar.google.com.br/citations?hl=en&user=QucS_38AAAAJ&view_op=list_works&gmla=AJsN-F4lSxJVgCYQk3lReZS-RlNaCpuydbbBcxhyumVyf7M_gtMvzS8WVds7-Mj79nEMqedzRpdrUSqtB6bhpYDDmGXrY5oCeQ) and background in [Lattes](http://lattes.cnpq.br/3031414717499292).
-
-### Continuous learning
-
-I occasionally publish on [Medium](https://medium.com/@robson.depaula) and share code on GitHub.
+ </div>
