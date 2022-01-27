@@ -5,9 +5,6 @@ This is my link tree:
     <a href="https://www.linkedin.com/in/antoniorobsondepaula">
         <img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin badge" />
     </a>
-     <a href="https://github.com/robsondepaula">
-        <img src="https://img.shields.io/badge/-Github-1a1b27?style=for-the-badge&logo=Github&logoColor=white" alt="Github badge" />
-    </a>
      <a href="https://gitlab.com/robsondepaula">
         <img src="https://img.shields.io/badge/-GitLab-1a1b27?style=for-the-badge&logo=Gitlab&logoColor=white" alt="Gitlab badge" />
     </a>
